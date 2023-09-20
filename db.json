@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Karen",
+      "empresa": "Popoyes",
+      "email": "karen@asd.com",
+      "telefono": "138198313",
+      "notas": "zxczxczxc",
+      "id": 2
+    },
+    {
+      "nombre": "Josue",
+      "empresa": "Bembos",
+      "email": "josue@asd.com",
+      "telefono": "31983913",
+      "notas": "000000",
+      "id": 3
+    },
+    {
+      "nombre": "Pedro",
+      "empresa": "Tia veneno",
+      "email": "pedro@asd.com",
+      "telefono": "1398198938",
+      "notas": "O.o",
+      "id": 5
+    },
+    {
+      "nombre": "sdfsdf",
+      "empresa": "Cineplanet",
+      "email": "a@asd.com",
+      "telefono": "982734663",
+      "notas": "--",
+      "id": 6
+    }
+  ]
+}
